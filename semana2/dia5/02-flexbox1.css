@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.padre {
+    border: 1px solid tomato;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.caja {
+    border: 1px solid black;
+    width: 25%;
+}

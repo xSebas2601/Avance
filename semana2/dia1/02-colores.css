@@ -1,0 +1,41 @@
+body {
+    background-color: #444;
+    font-family: "Poppins", sans-serif;
+    color: #eee;
+}
+
+.color-rojo {
+    color: red;
+}
+
+.color-naranja {
+    color: orange;
+}
+
+.color-amarillo {
+    color: yellow;
+}
+
+.color-verde-hex {
+    color: #00ff00;
+}
+
+.color-blanco-transparente {
+    color: rgba(255, 255, 255, alpha)
+}
+
+.header__title {
+    text-align: center;
+}
+
+.color-rojo-1 {
+    background-color: hsl(180, 100%, 50%);
+}
+
+.color-rojo-2 {
+    background-color: hsl(180, 100%, 40%);
+}
+
+.color-rojo-3 {
+    background-color: hsl(180, 100%, 30%);
+}

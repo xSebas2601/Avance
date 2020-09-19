@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.card {
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+    box-shadow: #aaa 0px 0px 10px;
+    transition: all 0.6s ease 0s;
+}
+
+.card:hover {
+    transform: scale(1.05, 1.05);
+    background-color: gray;
+}

@@ -1,0 +1,33 @@
+li:nth-child(2) {
+    color: blue;
+}
+
+li:first-child {
+    color: red;
+}
+
+li:last-child {
+    color: salmon;
+}
+
+
+/*odd - impar*/
+
+tbody tr:nth-child(odd) {
+    background: purple
+}
+
+
+/*Event - Par*/
+
+tbody tr:nth-child(even) {
+    background: red;
+}
+
+tbody tr {
+    background: royalblue;
+}
+
+thead {
+    background: seagreen
+}

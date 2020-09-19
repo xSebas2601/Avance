@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.subtitutlo {
+    font: normal 900 24px Arial;
+}
+
+.parrafos__p1 {
+    text-align: center;
+}
+
+.parrafos__titulo {
+    color: white;
+    text-align: center;
+    background-color: #444;
+    letter-spacing: 8px;
+    word-spacing: 15px;
+    font-family: "Poppins", sans-serif;
+}
